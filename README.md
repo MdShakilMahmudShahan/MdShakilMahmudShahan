@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/mdshakilmahmud"><img src="https://api.daily.dev/devcards/f26875bfd2ee4bcca384fd0294e040e6.png?r=tyt" width="400" alt="MD. Shakil Mahmud Shahan's Dev Card"/></a>
+<a href="https://app.daily.dev/mdshakilmahmud"><img src="https://github.com/MdShakilMahmudShahan/MdShakilMahmudShahan/blob/main/devcard.svg" width="400" alt="MD. Shakil Mahmud Shahan's Dev Card"/></a>
+
