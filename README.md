@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**MdShakilMahmudShahan/MdShakilMahmudShahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shakil-shahan/shakil-shahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/mdshakilmahmud"><img src="https://github.com/MdShakilMahmudShahan/MdShakilMahmudShahan/blob/main/devcard.svg" width="400" alt="MD. Shakil Mahmud Shahan's Dev Card"/></a>
+<a href="https://app.daily.dev/mdshakilmahmud"><img src="https://github.com/shakil-shahan/shakil-shahan/blob/main/devcard.svg" width="400" alt="MD. Shakil Mahmud Shahan's Dev Card"/></a>
 
